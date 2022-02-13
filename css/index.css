@@ -1,0 +1,68 @@
+.blueregion{
+	background-color: skyblue;
+	padding-left: 40px;
+	padding-top: 30px;
+}
+.move{
+	align-items: center;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 160px;
+  height: 160px;
+  margin-top: 35px;
+  }
+  .adjust{
+  	text-align: center;
+
+  }
+.desc{
+	text-align: center;
+	background-color: lightgrey;
+	margin-top: 20px;
+    margin-bottom: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.secondownload{
+	margin-top: 30px;
+	text-align: center;
+	background-color: none;
+}
+.contacts{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+}
+.fa-facebook, .fa-twitter, .fa-linkedin{
+	padding-right: 20px;
+
+}
+#prec{
+	padding-bottom: 25px;
+}
+.line{
+	color: brown;
+}
+.kk{
+	background-color: coral;
+	color: white;
+	padding: 7px;
+	border: none;
+	border-radius: 10px;
+	margin-bottom: 30px;
+}
+.dd{
+	border: none;
+	border-radius: 10px;
+	padding: 5px;
+}
+.more{
+	color: gray;
+}
+.carousel-inner{
+	align-items: center;
+}
